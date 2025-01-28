@@ -15,7 +15,7 @@ magic_spell_1.20.1
 
 1-2. 압축 해제 iron_spellbooks 폴더 안에있는 파일을 바탕화면으로 옮긴다.
 
-1-3. 바탕화면에 커서를 올린 후 shift + 우클릭 -> powershell 열기를 킨다.
+1-3. 바탕화면에 커서를 올린 후 shift + 우클릭 -> powershell 열기를 누른다.
 
 1-4. java -jar forge 입력 -> tap키 한번 누르기 -> 엔터키 누르기로 실행한다.
 
